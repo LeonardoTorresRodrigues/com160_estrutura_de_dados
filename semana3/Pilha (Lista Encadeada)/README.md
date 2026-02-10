@@ -2,7 +2,7 @@ Nessa aula 8 implementaremos uma pilha como **lista encadeada**.
 
 Link para o vídeo da aula -> https://www.youtube.com/watch?v=Xlkh6-10ILw
 
-### O que está sendo feito?
+### O que faremos?
 - Estrutura do Nó
 - Tipo Abstrato de Dados
 - Detalhes de Implementação
