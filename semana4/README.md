@@ -38,12 +38,4 @@ g++ aluno.cpp hash_basic.cpp hash_application.cpp -o programa_hash ./programa_ha
 
 >Este README foi gerado com base na aula de Estruturas de Dados da UNIVESP.
 
-```cardlink
-url: https://www.youtube.com/watch?v=RmO18m_8ncc
-title: "Estruturas de Dados - Tabela Hash (implementação)"
-description: "univesp.brEixo de Computação - COM160Univesp - Universidade Virtual do Estado de São Paulo Professor: Ulisses Martins Dias"
-host: www.youtube.com
-favicon: https://www.youtube.com/s/desktop/78e11dee/img/favicon_32x32.png
-image: https://i.ytimg.com/vi/RmO18m_8ncc/maxresdefault.jpg
-```
 [Estruturas de Dados - Tabela Hash (implementação) - YouTube](https://www.youtube.com/watch?v=RmO18m_8ncc)
